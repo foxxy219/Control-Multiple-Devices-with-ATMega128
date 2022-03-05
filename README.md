@@ -1,5 +1,6 @@
 # Control-Multiple-Devices-with-ATMega128
-# Devices list: 4 12V Relays
+# Devices list: 
+              4 12V Relays
               8 Buttons for LCD controls
               1 LM044L LCD
               2 7-LEDs to display temp
